@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "airbnb-clone-70bbe",
+    "staging": "airbnb-clone-8adcb"
+  },
+  "targets": {},
+  "etags": {}
+}
